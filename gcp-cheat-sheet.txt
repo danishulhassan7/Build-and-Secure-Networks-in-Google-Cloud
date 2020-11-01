@@ -1,5 +1,5 @@
 
-Follow these 07 simple steps:
+You need to follow these 07 simple steps one by one in order to complete this CHALLENGE LAB.
 
 Step 1: gcloud compute firewall-rules delete open-access
 
